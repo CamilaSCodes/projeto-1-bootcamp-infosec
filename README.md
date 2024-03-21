@@ -389,7 +389,7 @@ Outro requisito essencial é um sistema de telefonia que deve funcionar adequada
 * Autenticação WPA2-PSK
 * Criptografia AES
 
-### Procedimentos de Resposta a Incidentes
+### Procedimentos de resposta a incidentes
 
 1. Detecção de Incidentes:
     * Monitoramento contínuo dos logs de segurança dos dispositivos de rede.
