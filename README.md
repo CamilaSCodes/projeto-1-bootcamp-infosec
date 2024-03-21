@@ -36,3 +36,15 @@ Outro requisito essencial é um sistema de telefonia que deve funcionar adequada
 #### Topologia lógica
 ![topologia lógica](https://github.com/CamilaSCodes/projeto-1-bootcamp-infosec/blob/main/imagens/topologia%20logica.png?raw=true)
 #### Topologia física
+![topologia física](https://github.com/CamilaSCodes/projeto-1-bootcamp-infosec/blob/main/imagens/topologia%20fisica.png?raw=true)
+
+### Vlans
+
+| ID | VLAN | Descrição | 
+| ------------- | ------------- | ------------- |
+| 1 | default | Vlan Padrão (para gerenciamento do switches) |
+| 10 | alunos | Rede dos alunos (comunicação entre alunos e acesso à web, sem privilégios) |
+| 20 | professores | Rede dos professores (acesso à web e informações privadas para professores) |
+| 30 | funcionários | Rede dos funcionários (acesso à web e informações privadas para funcionários) |
+
+### 
