@@ -12,7 +12,7 @@ As provas serão realizadas em computadores conectados à internet cabeada, e ta
 
 Os fiscais e seguranças, dois tipos de funcionários distintos, precisarão se locomover entre as salas e, portanto, devem contar com conexão de internet wireless. Além disso, o evento requer funcionários de recepção com acesso a uma rede completamente sem fio para resolver problemas com agilidade.
 
-Outro requisito essencial é um sistema de telefonia que deve funcionar adequadamente.
+Outro requisito essencial é o sistema de telefonia funcionar adequadamente.
 
 ### Requisitos de rede
 
@@ -106,7 +106,7 @@ Outro requisito essencial é um sistema de telefonia que deve funcionar adequada
     <td>N/A</td>
   </tr>
   <tr>
-    <td>F0/4.4</td>
+    <td>F0/0.4</td>
     <td>172.16.6.1/23</td>
     <td>N/A</td>
     <td>N/A</td>
