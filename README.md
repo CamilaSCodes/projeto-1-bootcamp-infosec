@@ -23,12 +23,12 @@ Outro requisito essencial é um sistema de telefonia que deve funcionar adequada
 
 ### Dispositivos
 
+* 6x PC
+* 5x Laptop
 * 3x Ponto de Acesso Wi-Fi 
 * 3x Switch 
 * 2x Roteador 
-* 6x PC
-* 5x LapTop
-* 2x Server
+* 2x Servidor
 * 1x Smartphone
 * 1x Impressora
 
