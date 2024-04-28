@@ -2,11 +2,11 @@
 
 ## Criando uma rede segura com o Cisco Packet Tracer para o Programa Desenvolve do Grupo Boticário
 
-Este repositório contém uma rede criada no Cisco Packet Tracer, juntamente com sua documentação correspondente, como componente do primeiro projeto prático do Bootcamp em Segurança da Informação do Programa Desenvolve. O propósito primordial deste projeto é proporcionar uma experiência prática, complementar às 8 semanas iniciais de cursos na plataforma Alura.
+Este repositório inclui uma **rede criada no Cisco Packet Tracer**, acompanhada de sua **documentação** correspondente e um arquivo contendo um **Procedimento de Segurança de Acesso Físico**. Esses elementos compõem o primeiro projeto prático do Bootcamp em Segurança da Informação do Programa Desenvolve. O propósito primordial deste projeto é proporcionar uma experiência prática, complementar às 8 semanas iniciais de cursos na plataforma Alura.
 
-### Briefing do projeto
+## Briefing do projeto
 
-O projeto visa criar uma rede para um evento de programação em uma universidade, onde cada grupo de estudantes realizará provas diferentes em salas separadas. O evento contará com a presença de três categorias de pessoas: alunos, professores e funcionários.
+O projeto visa criar uma rede para um evento de programação na Universidade Alura, onde cada grupo de estudantes realizará provas diferentes em salas separadas. O evento contará com a presença de três categorias de pessoas: alunos, professores e funcionários.
 
 As provas serão realizadas em computadores conectados à internet cabeada, e tanto professores quanto funcionários devem ter acesso exclusivo a servidores com informações direcionadas a eles, garantindo a realização planejada do evento. Professores terão acesso tanto a um computador quanto a um laptop, permitindo mobilidade na sala e comunicação livre com os alunos.
 
@@ -14,12 +14,17 @@ Os fiscais e seguranças, dois tipos de funcionários distintos, precisarão se 
 
 Outro requisito essencial é o sistema de telefonia funcionar adequadamente.
 
-### Requisitos de rede
+Além de políticas de segurança e procedimentos bem definidos para responder a incidentes, a Universidade Alura solicita o desenvolvimento de um Procedimento de Segurança para garantir a integridade física das pessoas, dos bens e das informações sensíveis armazenadas nas instalações.
+
+### Requisitos
 
 * Acesso à internet cabeada e wireless
 * Servidores com políticas de acesso
 * Conexão de mais de 600 computadores
 * Sistema de telefonia
+* Políticas de segurança lógica e física
+
+## Infraestrutura e rede
 
 ### Dispositivos
 
@@ -381,13 +386,15 @@ Outro requisito essencial é o sistema de telefonia funcionar adequadamente.
 </tbody>
 </table>
 
-### Políticas de segurança
+### Políticas de segurança de rede
 
 * Controle de Acesso baseado em ACLs para restringir tráfego entre as redes de professores e funcionários
 * Redundância de links com STP
 * Segregação de redes utilizando VLANs
 * Autenticação WPA2-PSK
 * Criptografia AES
+
+## Políticas e procedimentos
 
 ### Procedimentos de resposta a incidentes
 
@@ -413,3 +420,16 @@ Outro requisito essencial é o sistema de telefonia funcionar adequadamente.
 7. Documentação e Análise Pós-Incidente:
     * Documentar o incidente, incluindo todas as etapas da resposta e lições aprendidas;
     * Realizar análise pós-incidente para identificar áreas de melhoria nos processos de segurança.
+  
+### Procedimento de Segurança de Acesso Físico
+
+O acesso físico às instalações da empresa é um aspecto crítico do gerenciamento de segurança para a Alura. Este [procedimento](https://github.com/CamilaSCodes/projeto-1-bootcamp-infosec/blob/main/Procedimento%20de%20Segurança%20de%20Acesso%20Físico.pdf) descreve as etapas e diretrizes para controlar e gerenciar o acesso físico para garantir a segurança das pessoas, dos ativos e das informações confidenciais em conformidade com os padrões de governança, risco e conformidade (GRC). As orientações contidas nesse documento devem ser entendidas e seguidas em todos os níveis hierárquicos da instituição.  
+
+## Conclusão
+
+Ao longo do projeto, foram integrados diversos dispositivos e tecnologias para atender aos [requisitos](#requisitos) específicos do evento de programação na Universidade Alura, garantindo não apenas conectividade confiável, mas também segurança tanto física quanto lógica.
+
+A criação de VLANs, a aplicação de políticas de acesso baseadas em ACLs e a implementação de criptografia AES e autenticação WPA2-PSK são exemplos de medidas adotadas para fortalecer a segurança da rede. Além disso, a elaboração de procedimentos de resposta a incidentes e um Procedimento de Segurança de Acesso Físico evidenciam o compromisso com a gestão abrangente da segurança da informação.
+
+Este projeto não apenas consolida o conhecimento adquirido nas primeiras semanas de curso, mas também representa um passo importante para preparar os alunos para enfrentar desafios reais no campo da segurança da informação. Ao mesmo tempo, fomenta a parceria entre academia e indústria para promover práticas de segurança sólidas e eficazes.
+
