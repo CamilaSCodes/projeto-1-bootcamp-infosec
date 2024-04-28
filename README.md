@@ -1,6 +1,6 @@
 # 1º Projeto Prático - Bootcamp em Segurança da Informação
 
-## Criando uma rede segura com o Cisco Packet Tracer para o Programa Desenvolve do Grupo Boticário
+## Criando uma rede segura com o Cisco Packet Tracer e um procedimento baseado nos padrões de GRC para o Programa Desenvolve do Grupo Boticário
 
 Este repositório inclui uma **rede criada no Cisco Packet Tracer**, acompanhada de sua **documentação** correspondente e um arquivo contendo um **Procedimento de Segurança de Acesso Físico**. Esses elementos compõem o primeiro projeto prático do Bootcamp em Segurança da Informação do Programa Desenvolve. O propósito primordial deste projeto é proporcionar uma experiência prática, complementar às 8 semanas iniciais de cursos na plataforma Alura.
 
