@@ -1,6 +1,6 @@
-# 1º Projeto Prático - Bootcamp em Segurança da Informação
+# Criando uma rede segura com o Cisco Packet Tracer e um procedimento baseado nos padrões de GRC para o Programa Desenvolve do Grupo Boticário
 
-## Criando uma rede segura com o Cisco Packet Tracer e um procedimento baseado nos padrões de GRC para o Programa Desenvolve do Grupo Boticário
+## 1º Projeto Prático - Bootcamp em Segurança da Informação
 
 Este repositório inclui uma **rede criada no Cisco Packet Tracer**, acompanhada de sua **documentação** correspondente e um arquivo contendo um **Procedimento de Segurança de Acesso Físico**. Esses elementos compõem o primeiro projeto prático do Bootcamp em Segurança da Informação do Programa Desenvolve. O propósito primordial deste projeto é proporcionar uma experiência prática, complementar às 8 semanas iniciais de cursos na plataforma Alura.
 
@@ -398,6 +398,8 @@ Além de políticas de segurança e procedimentos bem definidos para responder a
 
 ### Procedimentos de resposta a incidentes
 
+![processo de resposta a incidentes](https://github.com/CamilaSCodes/projeto-1-bootcamp-infosec/blob/main/imagens/Procedimento%20de%20resposta%20a%20incidentes.png)
+
 1. Detecção de Incidentes:
     * Monitoramento contínuo dos logs de segurança dos dispositivos de rede.
 
@@ -420,7 +422,7 @@ Além de políticas de segurança e procedimentos bem definidos para responder a
 7. Documentação e Análise Pós-Incidente:
     * Documentar o incidente, incluindo todas as etapas da resposta e lições aprendidas;
     * Realizar análise pós-incidente para identificar áreas de melhoria nos processos de segurança.
-  
+
 ### Procedimento de Segurança de Acesso Físico
 
 O acesso físico às instalações da empresa é um aspecto crítico do gerenciamento de segurança para a Alura. Este [procedimento](https://github.com/CamilaSCodes/projeto-1-bootcamp-infosec/blob/main/Procedimento%20de%20Segurança%20de%20Acesso%20Físico.pdf) descreve as etapas e diretrizes para controlar e gerenciar o acesso físico para garantir a segurança das pessoas, dos ativos e das informações confidenciais em conformidade com os padrões de governança, risco e conformidade (GRC). As orientações contidas nesse documento devem ser entendidas e seguidas em todos os níveis hierárquicos da instituição.  
