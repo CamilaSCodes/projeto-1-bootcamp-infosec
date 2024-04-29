@@ -4,6 +4,9 @@
 
 Este repositório inclui uma **rede criada no Cisco Packet Tracer**, acompanhada de sua **documentação** correspondente e um arquivo contendo um **Procedimento de Segurança de Acesso Físico**. Esses elementos compõem o primeiro projeto prático do Bootcamp em Segurança da Informação do Programa Desenvolve. O propósito primordial deste projeto é proporcionar uma experiência prática, complementar às 8 semanas iniciais de cursos na plataforma Alura.
 
+[![repo](https://img.shields.io/badge/repo-teal?style=plastic&logo=github&logoColor=008080&labelColor=white)](https://github.com/CamilaSCodes/projeto-1-bootcamp-infosec) &ensp; **Projeto 1** &emsp; | &emsp;  [![repo](https://img.shields.io/badge/repo-teal?style=plastic&logo=github&logoColor=008080&labelColor=white)](https://github.com/CamilaSCodes/projeto-2-bootcamp-infosec) &ensp; Projeto 2
+
+
 ## Briefing do projeto
 
 O projeto visa criar uma rede para um evento de programação na Universidade Alura, onde cada grupo de estudantes realizará provas diferentes em salas separadas. O evento contará com a presença de três categorias de pessoas: alunos, professores e funcionários.
