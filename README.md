@@ -24,6 +24,9 @@ Além de políticas de segurança e procedimentos bem definidos para responder a
 * Sistema de telefonia
 * Políticas de segurança lógica e física
 
+### Tecnologias
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
 ## Infraestrutura e rede
 
 ### Dispositivos
