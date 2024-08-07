@@ -27,6 +27,10 @@ Além de políticas de segurança e procedimentos bem definidos para responder a
 * Sistema de telefonia
 * Políticas de segurança lógica e física
 
+### Como executar
+
+Instale o [Cisco Packet Tracer](https://www.netacad.com/pt-br/courses/packet-tracer) e abra o [projeto1_infoSec.pkt](https://github.com/CamilaSCodes/projeto-1-bootcamp-infosec/blob/main/projeto1_infoSec.pkt). 
+
 ### Tecnologias
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
